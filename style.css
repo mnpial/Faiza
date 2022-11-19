@@ -1,0 +1,39 @@
+body {
+    font-family: 'PT Serif', serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.one {
+    color: orangered;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.half-width image {
+    width: 10%;
+}
+
+.fb {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.top-bannar {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
